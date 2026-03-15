@@ -1,35 +1,9 @@
-
-  { 
-
-"app_open_enabled": true,
-"ads_enabled": true,
-    "test_mode": true,                                                                                                     
-    "banner_enabled": true,
-    "inter_enabled": true,
-    "rewarded_enabled": true,
-    "native_enabled": true,
-      "app_open_unit_id": "demo-appopenad-yandex",
-  "banner_unit_id": "demo-banner-yandex",
-  "inter_unit_id": "demo-interstitial-yandex",
-  "rewarded_unit_id": "demo-rewarded-yandex",
-  "native_unit_id": "demo-native-content-yandex",
-    "app_open_cooldown_sec": 1800,
-    "first_app_open_delay_sec": 10,
-    "interstitial_cooldown_sec": 90,
-    "first_inter_delay_sec": 30,
-    "show_app_open_on_cold_start": true,
-    "show_app_open_on_resume": false,
-    "show_inter_on_boost_result": true,
-    "show_reward_for_pro_boost": true,
-    "show_native_on_home": true,
-    "show_native_on_tools": true,
-    "show_native_on_games": true,
-    "show_native_on_gfx_tool": true,
-    "show_native_on_ping_test": true,
-    "show_native_on_sensitivity": true,
-    "show_native_on_boost_result": true,
-    "show_native_on_settings": true,
-    "show_native_on_overlay": true,
-    "show_native_on_performance": true,
-    "show_native_on_device_health": true
+{
+    "ads_enabled": true,
+    "test_mode": true,
+    "app_open_unit_id": "demo-appopenad-yandex",                                                                                              
+    "inter_unit_id": "demo-interstitial-yandex", 
+    "rewarded_unit_id": "demo-rewarded-yandex",  
+     "banner_unit_id": "demo-banner-yandex",                                                                                              
+    "native_unit_id": "demo-native-app-yandex"
   }
