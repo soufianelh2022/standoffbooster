@@ -3,7 +3,7 @@
 
 "app_open_enabled": true,
 "ads_enabled": true,
-    "test_mode": false,                                                                                                     
+    "test_mode": true,                                                                                                     
     "banner_enabled": true,
     "inter_enabled": true,
     "rewarded_enabled": true,
