@@ -12,7 +12,7 @@
   "banner_unit_id": "demo-banner-yandex",
   "inter_unit_id": "demo-interstitial-yandex",
   "rewarded_unit_id": "demo-rewarded-yandex",
-  "native_unit_id": "demo-native-app-yandex",
+  "native_unit_id": "demo-native-content-yandex",
     "app_open_cooldown_sec": 1800,
     "first_app_open_delay_sec": 10,
     "interstitial_cooldown_sec": 90,
