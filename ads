@@ -1,9 +1,9 @@
 {
     "ads_enabled": true,
-    "test_mode": true,
-    "app_open_unit_id": "demo-appopenad-yandex",                                                                                              
-    "inter_unit_id": "demo-interstitial-yandex", 
-    "rewarded_unit_id": "demo-rewarded-yandex",  
-     "banner_unit_id": "demo-banner-yandex",                                                                                              
-    "native_unit_id": "demo-native-app-yandex"
+    "test_mode": false,
+    "app_open_unit_id": "R-M-18940379-5",                                                                                              
+    "inter_unit_id": "R-M-18940379-3", 
+    "rewarded_unit_id": "R-M-18940379-4",  
+     "banner_unit_id": "R-M-18940379-1",                                                                                              
+    "native_unit_id": "R-M-18940379-2"
   }
